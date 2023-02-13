@@ -87,3 +87,11 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+src/data/raw/
+src/data/clean/
+src/data/ca\ only/
+*.nc4
+tl_2012_us_state/
+ad_viz_plotval_*
+
