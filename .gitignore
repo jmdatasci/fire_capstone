@@ -88,7 +88,7 @@ target/
 # Mypy cache
 .mypy_cache/
 
-Src/data/*
+src/data/*
 src/data/raw/
 src/data/clean/
 src/data/ca\ only/
