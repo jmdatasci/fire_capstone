@@ -1,12 +1,18 @@
-fire_capstone
+# fire_capstone
 ==============================
-
+## FIRE: Fire's Immediate and Residual Effects on Youth Mental Health
 Data Science Capstone Project to Analyze Wildfire impact on Pediatric Health in California
 
 Website at https://groups.ischool.berkeley.edu/firesandmentalhealth/capstone/content.html 
 
+### Final Presentation:
+<object data="Capstone Final Presentation 3.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/jmdatasci/fire_capstone/blob/main/Capstone%20Final%20Presentation%203.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/jmdatasci/fire_capstone/blob/main/Capstone%20Final%20Presentation%203.pdf">Download Presentation </a>.</p>
+    </embed>
+</object>
 
-Project Organization
+### Project Organization
 ------------
 
     ├── LICENSE
